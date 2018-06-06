@@ -1,0 +1,14 @@
+{
+  "name": "runloop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "repl": "node repl.js",
+    "start": "node index.js",
+    "debug": "node --inspect-brk repl.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
